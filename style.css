@@ -1,0 +1,14 @@
+#canvas {
+    display: grid;
+    width: 500px;
+    height: 500px;
+    border: 1px solid black
+}
+
+.current {
+ background-color: red;
+}
+
+.food {
+    background-color: green;
+}
